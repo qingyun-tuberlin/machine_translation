@@ -1,0 +1,7 @@
+Makefile
+venv/*
+outputs_*/
+glove/
+pt-en/
+sv-en/
+.DS_Store
